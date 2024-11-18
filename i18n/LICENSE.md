@@ -24,5 +24,6 @@ SOFTWARE.
 
 Translations and their translators.
 
+moore5859 - Chinese
 
 All translations are from the above listed volunteers. Thank you!
