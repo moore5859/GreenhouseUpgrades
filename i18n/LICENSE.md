@@ -25,5 +25,6 @@ SOFTWARE.
 Translations and their translators.
 
 moore5859 - Chinese
+WarriorGW - Spanish
 
 All translations are from the above listed volunteers. Thank you!
